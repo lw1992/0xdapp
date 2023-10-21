@@ -434,6 +434,19 @@ return (
               <TitleButton name='Altlayer' link='https://www.altlayer.io/'></TitleButton>
             </Col>
             <Col span={4}>
+              <TitleButton name='Swell' link='https://app.swellnetwork.io/'></TitleButton>
+            </Col>
+            <Col span={4}>
+              <TitleButton name='rysk' link='http://app.rysk.finance/'></TitleButton>
+            </Col>
+            <Col span={4}>
+              <TitleButton name='PrismaFinance' link='https://prismafinance.com/'></TitleButton>
+            </Col>
+            <Col span={4}>
+              <TitleButton name='cega' link='http://app.cega.fi/'></TitleButton>
+            </Col>
+            
+            <Col span={4}>
               <TitleButton name='mint.fun' link='https://mint.fun/'></TitleButton>
             </Col>
             
@@ -472,6 +485,9 @@ return (
             </Col>
             <Col span={4}>
               <TitleButton name='Treasure' link='https://treasure.lol/'></TitleButton>
+            </Col>
+            <Col span={4}>
+              <TitleButton name='Bluefin' link='https://bluefin.io/'></TitleButton>
             </Col>
             <Col span={4}>
               <TitleButton name='Chronos' link='https://app.chronos.exchange/'></TitleButton>
@@ -516,7 +532,7 @@ return (
               <TitleButton name='SyncSwap' link='https://syncswap.xyz/'></TitleButton>
             </Col>
             <Col span={4}>     
-              <TitleButton name='Eraland' link='https://www.eralend.com/'></TitleButton>
+              <TitleButton name='Basilisk' link='https://app.basilisk.org/'></TitleButton>
             </Col>       
             <Col span={4}>     
               <TitleButton name='Velocore' link='https://velocore.xyz/'></TitleButton>
@@ -601,6 +617,9 @@ return (
               <TitleButton name='Lens' link='https://lens.xyz'></TitleButton>
             </Col>
             <Col span={4}>
+              <TitleButton name='Friend' link='https://www.friend.tech/'></TitleButton>
+            </Col>
+            <Col span={4}>
               <TitleButton name='Zerion' link='https://zerion.io/'></TitleButton>
             </Col>
             <Col span={4}>
@@ -641,6 +660,9 @@ return (
             </Col>
             <Col span={4}>
               <TitleButton name='Defilama' link='https://defillama.com/'></TitleButton>
+            </Col>
+                <Col span={4}>
+              <TitleButton name='cryptorank' link='https://cryptorank.io/'></TitleButton>
             </Col>
             <Col span={4}>
               <TitleButton name='Alchemy' link='https://www.alchemy.com/'></TitleButton>
@@ -683,6 +705,9 @@ return (
           </Col>
           <Col span={4}>
             <TitleButton name='buildspace' link='https://buildspace.so/'></TitleButton>
+          </Col>
+          <Col span={4}>
+            <TitleButton name='wtf.academy' link='https://www.wtf.academy/'></TitleButton>
           </Col>
           <Col span={4}>
             <TitleButton name='Guild' link='https://guild.xyz/'></TitleButton>
@@ -744,6 +769,23 @@ return (
             <Col span={4}>
               <TitleButton name='ultrasound' link='https://ultrasound.money/'></TitleButton>
             </Col>
+            <Col span={4}>
+              <TitleButton name='zkGasTracker' link='https://zkgastracker.com/'></TitleButton>
+            </Col>
+            
+            <Col span={4}>
+              <TitleButton name='Trustalab' link='https://trustalabs.ai/'></TitleButton>
+            </Col>
+            <Col span={4}>
+              <TitleButton name='bitboxtools' link='https://bitboxtools.github.io/'></TitleButton>
+            </Col>
+            <Col span={4}>
+              <TitleButton name='byfish' link='https://byfishh.github.io/zk-flow/'></TitleButton>
+            </Col>
+            <Col span={4}>
+              <TitleButton name='minitoolkit' link='https://minitoolkit.org/'></TitleButton>
+            </Col>
+            
           </Row>
           <Divider orientation="left" id='News'>News</Divider>
           <Row justify="space-evenly">
